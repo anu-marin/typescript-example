@@ -13,7 +13,7 @@
     "strictNullChecks": true,
     "skipLibCheck": true,
     "strictPropertyInitialization": true,
-    "esModuleInterop":true,
+    "esModuleInterop": true,
     "outDir": "./dist"
   },
   "include": [
@@ -22,6 +22,7 @@
   ],
   "exclude": [
     "node_modules",
-    "src/__tests__"
+    "src/__tests__",
+    "examples"
   ]
 }
